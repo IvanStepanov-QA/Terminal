@@ -45,11 +45,11 @@ $ cat >>/d/dir_1/tf_2.txt
 press ctrl+C
  14. Сделать текстовый файл tf_4.txt в котором будет 15 строк.
 $ cat > tf_4.txt
-	press enter 15 times
+	enter x15 
 press ctrl+C
  15. Сделать текстовый файл tF_5.txt в котором будет 13 строк.
 $ cat > tF_5.txt
-	press enter 13 times
+	enter x13 
 press ctrl+C
  16. Вывести список всех файлов в папке.
 $ ls -la
